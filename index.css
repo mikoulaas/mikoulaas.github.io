@@ -1,0 +1,43 @@
+body{
+background-color: whitesmoke;
+}
+.container {
+display: flex;
+justify-content: center;
+align-items: center;
+border: 5px  blueviolet;
+
+}
+.item{
+ background-color: white;
+padding:10px;
+}
+h2{
+text-align: center;
+}
+p{
+text-align: center;
+}
+button{
+text-align: center;
+}
+.conteneur{
+text-align: center;
+height: 150px;
+}
+.bottle{
+text-align: center;
+height: 150px;
+}
+.fortnite{
+text-align: center;
+height: 150px;
+}
+.kitchen{
+text-align: center;
+height: 150px;
+}
+.firstaid{
+text-align: center;
+height: 150px;
+}
