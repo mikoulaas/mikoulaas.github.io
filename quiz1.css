@@ -1,5 +1,8 @@
 body {
-    background-color: whitesmoke;
+
+
+background: linear-gradient(to left, blueviolet, lightblue);
+    
 }
 
 ul {
@@ -10,16 +13,17 @@ ul {
     border: 10px;
     color: blueviolet;
     text-decoration: none;
-list-style-type: none;
+    list-style-type: none;
 }
 
 
 
-li{
-padding: 15px;
+li {
+    padding: 15px;
 
 }
+
 a {
-text-align: center;
-text-decoration: none;
+    text-align: center;
+    text-decoration: none;
 }

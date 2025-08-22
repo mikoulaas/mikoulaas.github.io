@@ -1,13 +1,13 @@
 body{
-background-color: whitesmoke;
+background: linear-gradient(to left, lightblue, blueviolet);
+}
+h2{
+text-align: center;
+}
+p{
+text-align: center;
+}
 
-}
-h1{
-text-align: center;
-}
-.container{
-text-align: center;
-}
 ul {
     display: flex;
     justify-content: center;
